@@ -4,6 +4,7 @@ This is the list of awesome computer science Courses that I found on the web fre
 
 ## Trimester I
 
+### Video Lectures
   1. [PROG 102A | Introductory | Programming | MIT 6.00.1x | Introduction to Computer Science and Programming Using Python| ](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6#)
   2. [PROG 102B | Introductory | MIT 6.00.2x | Introduction to Computational Thinking Data Science ](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3#)
   3. [PROG 001A | MIT 6.00 | Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
